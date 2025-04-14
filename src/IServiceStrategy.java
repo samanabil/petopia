@@ -1,0 +1,3 @@
+interface IServiceStrategy {
+    void loadOptions();
+}
